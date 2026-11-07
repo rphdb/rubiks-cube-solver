@@ -1,0 +1,8 @@
+# Compiled binary
+rubik
+*.o
+*.exe
+
+# Generated pattern databases (rebuild with ./rubik gen ...)
+*_pdb.txt
+pdb_*.txt

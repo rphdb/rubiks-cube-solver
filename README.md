@@ -7,6 +7,8 @@ Two classic Rubik's Cube solvers written from scratch in C, both guided by **pat
 
 Developed during my preparatory classes in Lyon (2023–2024). Code comments and identifiers are in French.
 
+📄 **Full report:** [`reports/report.pdf`](reports/report.pdf) (English translation; French original: [`reports/report_fr.pdf`](reports/report_fr.pdf))
+
 ## Results
 
 Kociemba, 100 random 30-move scrambles, all solutions verified by replaying them on the scrambled cube:
